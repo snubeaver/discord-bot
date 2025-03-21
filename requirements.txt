@@ -1,0 +1,5 @@
+discord.py==2.3.2
+crewai
+pyyaml
+python-dotenv
+requests

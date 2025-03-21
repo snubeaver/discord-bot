@@ -1,0 +1,11 @@
+answer_query:
+  description: "Answer the user's query about the product."
+  expected_output: 'A detailed answer based on the product information and announcements.'
+
+notify_slack:
+  description: 'Notify Slack channel for manual intervention.'
+  expected_output: 'A notification message sent to Slack with the query details.'
+
+chill:
+  description: 'Be friendly with users on casual topics.'
+  expected_output: 'Always be polite and never judge others.'
