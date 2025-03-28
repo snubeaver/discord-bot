@@ -1,0 +1,347 @@
+Neemo Finance x Card Giveaway Event
+@everyone 
+
+We are choosing 10 winners who share a screenshot of their deposit on Neemo Finance ASTR Bank!
+
+Participate in the event here 👉⁠알 수 없음
+
+FYI, Current APY on Neemo Finance Bank is above 13% 🔥 
+이미지
+Drew | UntitledBank — 2025. 2. 7. 오후 9:29
+Notice: Implementation of Market Borrow Caps
+@everyone 
+
+To minimize liquidity pool insolvency risk and ensure sustainable growth, we are implementing borrow caps across all markets. The initial cap will be set at $300,000. 
+
+Once a market reaches its borrow cap, new borrowing will be paused until the total borrowed amount falls below the cap or borrow cap itself increases. 
+
+Thank you!
+Drew | UntitledBank — 2025. 2. 14. 오전 11:21
+Borrow Cap Increased for nsASTR/ASTR market
+@everyone 
+
+Excited to announce two significant improvements to the nsASTR/ASTR market:
+
+The borrow cap has been increased to $500,000
+The UI now displays real-time remaining amount information
+
+Take advantage of our Leverage feature to optimize your nsASTR position with these enhanced borrowing limits! 
+이미지
+Drew | UntitledBank — 2025. 2. 14. 오후 2:45
+⚠️ Important Risk Notice: nsASTR/ASTR market
+@everyone 
+
+Please be aware that the borrow APY for ASTR is currently higher than the supply APY for nsASTR. 
+
+This may cause:
+Net negative returns on your position
+Gradual erosion of your collateral value relative to borrowed amount
+Increased risk of liquidation over time
+
+Disclaimer
+You are responsible for all risks. The platform will not prevent liquidations. 
+
+Monitor your positions carefully!
+Drew | UntitledBank — 2025. 2. 17. 오후 1:25
+New Partnership: Arkada🚀
+@everyone 
+
+Happy to introduce Arkada, the next-gen quest-to-earn platform where blockchain meets gaming on Soneium!
+
+Our collaboration quest is live on their platform 👉 https://app.arkada.gg/en/campaign/untitledbank
+
+Join to get Arkada's reward!
+이미지
+Arkada Quest - Untitled Bank: test and borrow
+Untitled Bank is a unique lending platform that makes modular lending as simple as monolithic lending with an aggregated layer. We provide unified liquidity and simple UX while keeping flexibility in risk and assets.
+As the sole winner in the lending category of the Soneium Spark Program, Untitled Bank delivers a cutting-edge lending experience ...
+Drew | UntitledBank — 2025. 2. 18. 오후 1:54
+Get Ready for ACS @everyone
+ACS starts in two days. 
+
+What is ACS?
+👉 Campaign to incentivize users to interact with Dapps on Soneium
+👉 1 ACS = 0.1 ASTR , airdropped after the campaign ends
+
+How to get ACS in Untitled Bank?
+👉 Supply counts for TVL allocation
+👉 Borrow counts for Discretionary allocation 
+
+Thanks to all, Untitled Bank has been allocated 2.5M ACS from Season 1's discretionary pool, which means daily $1000+ worth ACS! 
+
+More details will follow with a dedicated page for ACS on Feb 20th. 
+
+Prepare yourself for this massive reward opportunity!
+
+https://discord.gg/6PYHBfTjt2?event=1340920198764560414 
+ACS - ASTR Airdrop!
+Untitled Bank is joining ACS Campaign!
+What is ACS?
+ACS is Astar Contribution Score.
+ACS is designed to incentivize activities and liquidity on Soneium.
+ACS is offchain point with a fixed supply of 1 billion ACS.
+After ACS campaign ends, Astar Foundation will airdrop 100M ASTR to users based on ACS balance of the users.
+1 ACS = 0.1 ASTR
+More details can be found: https://forum.astar.network/t/treasury-proposal-for-acs-campaign/7806
+Drew | UntitledBank — 2025. 2. 20. 오후 12:54
+Soneium DeFi Conquest on Galxe
+@everyone 
+
+Untitled Bank is joining Soneium DeFi Conquest on Galxe hosted by Kyo Finance, and in collaboration with major Soneium DeFi projects! 
+
+We are giving away total 30 Untitled Cards
+ 10 winners: Onyx / 10 winners: Gold / 10 Winners: Silver
+
+Full Collection link: https://app.galxe.com/quest/Kyofinance/GCnBqtpbDA
+Untitled Bank's Quest link: https://app.galxe.com/quest/UntitledBank/GCYwFtpFeA
+
+Go explore all the projects and get rewards✨
+이미지
+Drew | UntitledBank — 2025. 2. 20. 오후 10:16
+ACS Just Began :soneium: :Astar:
+@everyone 
+
+What is ACS(Astar Contribution Score)?
+
+    ACS(Astar Contribution Score) is a campaign to incentivize activities and liquidity on Soneium by rewarding 100M ASTR to participants, expanding ASTR's utility as a core asset on Soneium.
+    
+Campaign Period: Feb 20th ~ May 30th, running for 100 days
+Total 1 Billion ACS
+1 ACS = 0.1 ASTR Airdrop
+Total ACS Allocation: TVL-Based Allocation (70%) / Discretionary Allocation (26.5%) / Astar Surge (2.5%) / Soneium Meme Spark Contest (0.5%) / Campaign Reserve (0.5%)
+
+How to get ACS on Untitled Bank?
+TVL-Based Allocation
+All the supply actions (including supplying for collateral) are eligible
+Supply Bank
+UB-USDC / UB-WETH / UB-ASTR / Neemo-ASTR-Bank
+Supply Collateral (Total 7 markets)
+ASTR Collateral: ASTR/USDC, ASTR/WETH
+USDC Collateral: USDC/ASTR, USDC/WETH
+WETH Collateral: WETH/USDC, WETH/ASTR
+nsASTR Collateral: nsASTR/ASTR
+
+    
+Discretionary Allocation
+100%: Borrow Assets (Equally split across 7 borrowing markets)
+but, the weight values for each market can change every 10-day phase based on factors such as market-specific demand or the addition of new markets
+Untitled Bank Season 1(first 10 days) Allocation: 2,500,000 ACS
+Daily ACS allocation for each market: 250,000 / 7 = 35,714 ACS
+
+    
+Astar Surge
+All the bridged ASTR to Soneium will count toward ACS
+Astar Surge retroactive points will be allocated in the beginning of Season 5 (after 40 days)
+
+  🚨 Major UI Updat for ACS: All the banks and markets are showing ‘Net APY’
+    
+Net APY = Native APY + ACS Supply APY + ACS Borrow APY
+The Borrow APY, which was originally expressed as a positive number, has been changed to be displayed as a negative number since it represents interest that needs to be paid.
+ex.   -3.00% APY means you are paying 3.00% interest.
+
+For all the details, you can check our ACS page: https://app.untitledbank.co/acs
+
+Go score more at Untitled!:untitledbank_logo: 
+이미지
+이미지
+Drew | UntitledBank — 2025. 2. 25. 오전 11:22
+MetaverseHQ Mission Winner Selected!
+@everyone 
+
+Congratulations to winners from MetaverseHQ! 
+You may check your updated card tier on our reward page and with your new discord role:)
+(Fyi, those accounts without @untitled role were not given a new role yet. Please verify first to receive a new role!)
+
+
+Please ⁠｛🎫｝open-ticket  for any inquiries.
+
+Thank you all for participating!
+Drew | UntitledBank — 2025. 3. 4. 오후 2:02
+ACS Season 2 Began with Bigger Rewards!
+@everyone 
+
+Excited to announce that Untitled Bank has been allocated 3,000,000 Discretionary ACS points for this season 🎉 - This makes it one of the top projects with the most ACS points.👏 
+
+Details on ACS 👉 ⁠｛📢｝announcement⁠
+Join ACS now 👉 https://app.untitledbank.co/acs
+
+Score More with Untitled! 
+Untitled Bank
+Untitled Bank
+Where Anyone Becomes a Bank. Permissionless and modular lending platform
+Untitled Bank
+Drew | UntitledBank — 2025. 3. 7. 오후 4:53
+Leverage feature is live for ASTR/ASTR market!⚡️
+@everyone 
+
+ASTR/ASTR market has been created.
+
+Go to Borrow -> ASTR/ASTR page
+(https://app.untitledbank.co/borrow/0x2469362f63e9f593087ebbb5ac395ca607b5842f/9)
+Press Leverage and choose your leverage multiplier.
+👉 You can leverage up to 4.5x ⚡️ (LLTV: 80%) 
+
+🚨Limited to $1M value, participate before the cap is reached!
+
+For this new market, we are allocating 💫twice as many ACS points as we do for other markets.
+
+What you are earning with leveraged ASTR 🚀
+Supply ACS APY
+Borrow ACS APY
+4x U Points
+
+Maximize your yields with boosted U Points & ACS points!
+이미지
+Drew | UntitledBank — 2025. 3. 7. 오후 6:06
+Untitled Bank x Soneium Ecosystem Badge is here!
+@everyone 
+
+How to get the badge?
+👉 Complete more than 10 transactions on Untitled Bank during the event period (Mar 7th ~ April 1st UTC)
+👉 No minimum standard amount
+👉 Any onchain actions - supply, borrow, repay, withdraw etc.
+
+Utility?
+To be revealed 😎
+
+Snapshot will be taken at 0am UTC, April 1st.
+
+Good luck🩵💜 
+이미지
+Drew | UntitledBank — 2025. 3. 10. 오후 3:24
+Important Notice: Discretionary ACS Allocation Update🚨
+@everyone 
+
+We've changed our Discretionary ACS to focus only on deposits in Earn Banks.
+
+Eligible Actions for ACS: Deposits only (borrowing no longer rewarded)
+
+Eligible Banks for Discretionary ACS: UB-ASTR, UB-WETH, UB-USDC
+Eligible Banks and Markets for TVL-based ACS: All banks and markets
+
+This change aims to improve market health and sustainability by lowering borrow interest rates across all markets.
+
+Please check our new APYs with updated ACS rewards and adjust your positions accordingly!
+
+https://x.com/BankUntitled/status/1898988589784211689 
+Untitled Bank 【 💿 】 (@BankUntitled) on X
+Important Notice: Discretionary ACS Allocation Update🚨
+
+We've changed our ACS rules to focus only on supply actions!
+
+Eligible Actions for ACS: Deposits only (borrowing no longer rewarded)
+Discretionary ACS allocated only to: UB-ASTR, UB-WETH, UB-USDC Earn Banks
+
+Check New
+Untitled Bank 【 💿 】 (@BankUntitled) on X
+
+X•2025. 3. 10. 오후 3:45
+Drew | UntitledBank — 2025. 3. 11. 오후 10:01
+SPECIAL COLLABORATION QUEST with Neemo Finance and SONEX 🚀
+@everyone 
+
+TIME TO WIN MASSIVE REWARDS
+
+✨Complete quests and earn boosted rewards from each platform✨
+
+[Quest 1: Untitled Bank]
+🔗 https://app.arkada.gg/ru/campaign/untitled-bank
+Follow @BankUntitled
+Borrow $10+ ASTR from any of our markets: WETH/ASTR, USDC.e/ASTR, ASTR/ASTR
+💎 6x U Points
+
+[Quest 2: Neemo Finance]
+🔗 https://app.arkada.gg/ru/campaign/neemo-staking
+Follow @neemofinance
+Stake ASTR or WETH to mint nsASTR or nrETH
+💎 Staking Rewards
+
+[Quest 3: SONEX]
+🔗 https://app.arkada.gg/en/campaign/sonex-farming
+Follow @OopsItsSONEX
+Farm nrETH & nsASTR on SONEX
+💎 2x SONEX Points, 3x Neemo Points
+
+And, here comes a Lucky Draw🎁
+
+Users that complete all tasks (Borrow + Stake + Farm) will enter a lucky draw to win:
+
+• Bonus 2000 SONEX points (20 Users) + NFT whitelist for all
+• 5x Neemo Loyalty NFT worth 0.086 Eth
+• 10x Onyx Untitled Cards (1.75x point booster)
+
+LESSGO🚀 
+이미지
+Drew | UntitledBank — 2025. 3. 17. 오후 5:27
+Galxe Winners Announced
+@everyone 
+
+Congrats to the winners and thank you all for participating!
+
+I've updated your tiers and roles! 
+You may check your card updated in our Reward page: https://app.untitledbank.co/rewards
+
+Here's the list: https://docs.google.com/spreadsheets/d/155Im_rBobLDfWbAKUF6EVzUM2YLyilBoWA3UbUN-9Hw/edit?usp=sharing
+Untitled Bank
+Untitled Bank
+Where Anyone Becomes a Bank. Permissionless and modular lending platform
+Untitled Bank
+Google Docs
+Galxe Winners
+이미지
+Drew | UntitledBank — 2025. 3. 17. 오후 7:01
+Partnership & Giveaway with Evermoon 🌕
+@everyone 
+
+Joining forces with EverMoon: The AI-Powered Web3 Ecosystem Merging Gaming, DeFi, and VTubers for the Future of Interactive Entertainment!
+
+Two events live:
+
+1️⃣ Evermoon’s Soneium NFT Capsule: Hypernova WL Giveaway
+
+Choosing 50 Winners
+
+Join raffle: ⁠｛💫｝event-board⁠EverMoon NFT WL Giveaway
+
+2️⃣ Partner Quest Live on Moon Mission
+
+Simple task 👉 Follow @BankUntitled and upload a screenshot.
+Reward 👉 300 Moon Power
+🔗 http://moonmission.evermoon.games/
+
+Go participate!🔥
+
+https://x.com/BankUntitled/status/1901573595572429165 
+Untitled Bank 【 💿 】 (@BankUntitled) on X
+【 𝗡𝗲𝘄 𝗣𝗮𝗿𝘁𝗻𝗲𝗿𝘀𝗵𝗶𝗽 𝘄𝗶𝘁𝗵 @EverMoon_nft 】
+
+Joining forces with EverMoon: The AI-Powered Web3 Ecosystem Merging Gaming, DeFi, and VTubers for the Future of Interactive Entertainment!
+
+Learn how to win Evermoon’s Soneium NFT Capsule: Hypernova WL & earn Moon
+Untitled Bank 【 💿 】 (@BankUntitled) on X
+
+X•2025. 3. 17. 오후 6:57
+Drew | UntitledBank — 2025. 3. 19. 오후 2:55
+Untitled Card Market Open! [TEST RUN] :untitledbank_logo:
+Great news! @everyone 
+
+After receiving feedback about the competitive nature of our raffle system, we're excited to announce the opening of our Card Market🛒 
+Now you can spend your hard-earned points to purchase cards directly, whenever you want. No more waiting for raffle results!
+
+Market Details:
+:79845verified: Open Period: 5 days, until 24th (It's a test run! We cannot guarantee when or if the Marketplace will reopen after this period)
+:79845verified: Limited Spots Available: First come, first served
+:79845verified: Immediate Role Upgrades: Your role will be upgraded as soon as you purchase roles (Note: If you already have a role, there will be no additional upgrade and nothing will change)
+:79845verified: Reward Updates: Your card on our app will be collectively updated on the 24th
+
+Check out the details and buy your cards!  ⁠｛🎁｝card-market
+이미지
+Drew | UntitledBank — 2025. 3. 19. 오후 3:29
+Untitled x Soneium Ecosystem Badge Checker is live!
+@everyone 
+
+https://app.untitledbank.co/badge-checker
+
+Insert your wallet address and check whether you are getting our badge airdrop!
+
+Note: Please check the block sync time! It does not reflect the real time status

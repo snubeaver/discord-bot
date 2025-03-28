@@ -1,0 +1,313 @@
+Welcome to Untitled Bank!
+
+Our Products and Services:
+- Personal Banking
+- Business Banking
+- Digital Banking
+- Investment Services
+- Loans and Mortgages
+
+Key Features:
+- 24/7 Online Banking
+- Mobile App
+- Secure Transactions
+- Customer Support
+
+For more information, please visit our website or contact our customer service.
+
+<Overview>
+
+Untitled Bank is a permissionless, and modular lending platform designed to provide a seamless and inclusive experience for all users. Our mission is to unlock the potential of underutilized assets by leveraging our unique Aggregated and Layered Bank architecture. Untitled Bank simplifies asset management and lending operations, making decentralized finance (DeFi) more accessible to both novice and experienced users.
+
+<Problem Statement>
+
+Decentralized finance (DeFi) has transformed traditional financial systems by removing intermediaries and relying on smart contracts for trustless transactions. While DeFi offers numerous advantages over traditional finance, including transparency and accessibility, existing lending platforms often face limitations. which we identified as such:
+
+Limited asset diversity and accessibility on existing platforms, creating barriers for regular retail users.
+
+Low capital efficiency due to underutilized assets in a fragmented ecosystem.
+
+Lack of cross-chain interoperability, restricting liquidity and access to assets across different chains.
+
+DAO-centric risk management potentially limiting scalability and efficient decision-making.
+
+Untitled Bank aims to address these issues with a interoperable modular architecture that leverages a Layered Bank system to offer a more inclusive and flexible approach to decentralized lending.
+
+<Solution: Aggregated Lending>
+
+Aggregated Layers: Core Bank and Core Market
+Untitled Bank introduces Aggregated Lending, an innovative solution that unifies permissionless lending markets through aggregation layers - the Core Market and Core Bank. The Core Market aggregates markets with identical collateral-loan asset pairs, while the Core Bank manages the aggregated liquidity pools. This layered structure preserves the flexibility of modular market creation while solving liquidity fragmentation, offering users the best of both modular and monolithic lending systems.
+
+Deep dive into our layered structures in Layered Bank Structure and Layered Market Structure part. 
+
+
+CORE CONCEPT
+Banks
+✔️
+Layered Bank Structure
+The cornerstone of Untitled Bank's design is its Layered Bank structure, which offers unparalleled flexibility and accessibility in asset management.
+
+A major challenge with modular lending platforms is their complex earning process compared to monolithic platforms like Aave or Compound. On these platforms, users simply deposit assets into a single pool. However, in modular systems, users must navigate different Bank Operators, assess the risk level of each vault, and ensure they are entrusting their funds to reliable operators.
+
+At Untitled Bank, we eliminate this complexity by introducing the Core Bank, where a DAO manages asset distribution across multiple Custom Banks—offering the simplicity of monolithic platforms with the flexibility of modular lending.
+
+
+Depositing experience for different user types
+Core Bank
+Designed for users seeking simplicity, the Core Bank functions as a vault where users can easily deposit and lend assets without complex configurations.
+
+Asset Distribution: Funds from the Core Bank are distributed to various Custom Banks based on DAO voting, ensuring optimized and secure asset allocation.
+
+Custom Bank
+Built for advanced users and institutions, Custom Banks provide flexibility with configurable risk levels, managed independently by different Bank Operators.
+
+Benefits
+User-Friendly: Simplifies the experience for users of all expertise levels.
+
+Capital Efficiency: Improves asset utilization by effectively pooling and distributing funds.
+
+DAO Governance: Encourages long-term commitment through DAO voting on asset distribution within the Core Bank.
+
+Untitled Bank offers the best of both worlds, providing ease of use similar to Aave or Compound while harnessing the flexibility and customization of modular lending.
+
+CORE CONCEPT
+Banks
+✔️
+Broad Asset Support
+Untitled Bank offers a diverse range of assets, surpassing traditional lending platforms by supporting both key DeFi assets and long-tail assets. 
+
+Key DeFi assets include popular tokens backed by leading protocols, while long-tail assets are carefully selected based on manageable volatility, sufficient liquidity to minimize slippage, proven market maturity, and rigorous security audits to ensure safety.
+
+Benefits:
+
+More options for diversification and risk management.
+
+Boosts platform liquidity and market depth.
+
+Supports broader participation across different asset types.
+
+CORE CONCEPT
+Banks
+✔️
+ICrosschainERC20 Vault (TBD)
+Previously SuperchainERC20 Vault
+
+To be updated 👀
+
+CORE CONCEPT
+Markets
+✔️
+Layered Market Structure
+Untitled Bank's Layered Market Structure revolutionizes modular lending by solving the critical challenge of liquidity fragmentation. In traditional modular lending protocols, the coexistence of multiple markets with identical collateral-loan pairs leads to scattered liquidity and market inefficiencies. Our innovative approach combines the flexibility of modular lending with the efficiency of monolithic systems through our Core Market feature.
+
+Core Market Solution 
+Our Core Market feature aggregates markets with identical collateral-loan asset pairs, creating a unified lending experience:
+
+
+Collateralizing and Borrowing experience for different user types
+Smart Market Whitelisting: Through DAO governance, markets are carefully vetted and whitelisted to join the Core Market ecosystem.
+
+Optimal Order Distribution: The platform intelligently routes borrow orders across whitelisted markets, maximizing efficiency and stabilizing rates.
+
+Unified Liquidity: Users access a single, aggregated liquidity pool for each asset pair, simplifying the lending experience while maintaining the benefits of modular design.
+
+Key Advantages 
+The Layered Market Structure delivers significant benefits to all participants:
+
+Seamless User Experience: Access to aggregated liquidity through a single interface eliminates the complexity of comparing multiple markets.
+
+Maximum Capital Efficiency: Unified liquidity pools ensure optimal utilization rates and stable interest rates across the platform.
+
+Community-Driven Growth: DAO governance of market whitelisting promotes quality control and active community participation in platform development.
+
+Through this innovative architecture, Untitled Bank creates a lending platform that combines the customization of modular design with the efficiency of unified liquidity pools, setting a new standard for DeFi lending.
+
+CORE CONCEPT
+Markets
+✔️
+Modular Architecture
+Untitled Bank's Modular Architecture allows for seamless expansion and customization of financial products and services.
+
+
+Custom Vault Creation: 
+Developers and advanced users can build and deploy customized vaults that cater to specific investment strategies or market needs.
+
+Interoperability: 
+The modular design follows ERC-4626 Standard to facilitate integration with other DeFi protocols and services, enhancing composability and enabling complex financial operations.
+
+Scalability: 
+New features and asset classes can be added without disrupting existing services, ensuring the platform evolves alongside the rapidly changing DeFi landscape.
+
+Benefits:
+
+Empowers innovation by allowing for the development of specialized financial products.
+
+Ensures the platform remains adaptable and future-proof.
+
+Enhances user experience by providing tailored solutions.
+
+CORE CONCEPT
+Markets
+✔️
+Permissionless and Flexible
+Untitled Bank embraces a Permissionless ethos, ensuring openness and inclusivity across all platform operations.
+
+Open Access: Anyone can participate in the ecosystem, whether by depositing assets, creating vaults, or developing new financial products, without requiring explicit permission or centralized approval.
+
+Flexible Participation: Users have the freedom to choose how they engage with the platform, selecting from various vaults and strategies that align with their risk tolerance and investment goals.
+
+Benefits:
+
+Fosters a decentralized and democratic financial environment.
+
+Encourages community-driven growth and innovation.
+
+Reduces barriers to entry, attracting a wider user base.
+
+CORE CONCEPT
+Markets
+✔️
+Advanced Risk Management
+Risk management is integral to Untitled Bank's design, ensuring user funds are safeguarded through robust mechanisms.
+
+Customizable Risk Parameters: Vault creators can set specific risk parameters, including collateralization ratios, interest rates, and liquidation thresholds, tailoring the risk profile to the intended strategy.
+
+Efficient Liquidation Mechanisms: The platform employs optimized liquidation processes to minimize losses and maintain system stability, including automated triggers and fair penalty structures.
+
+Benefits:
+
+Protects user assets through proactive and responsive safeguards.
+
+Maintains platform stability and trustworthiness.
+
+CORE CONCEPT
+Markets
+✔️
+Multiply (Leverage) Feature
+Unlock the potential of yield-bearing assets by easily leveraging positions for higher returns.
+
+Automated Leverage: Multiply automates the borrowing and re-depositing process to increase exposure, allowing users to select their desired leverage level.
+
+Integrated Risk Tools: The platform provides tools for tracking and adjusting leverage positions, helping users manage risks such as liquidation or excessive borrowing costs.
+
+Benefits:
+
+Maximizes potential returns on staking tokens and other yield-bearing assets.
+
+Simplifies complex strategies with a single-click solution.
+
+Provides clear insights and control over leveraged positions.
+
+CORE CONCEPT
+Markets
+✔️
+Bundler
+Untitled Bank provides bundling solutions to improve gas efficiency and simplify engagement.
+
+
+Streamlined User Experience with Bundlers
+One-Click Bundles: Users can combine multiple actions—such as deposits, loans, repayments, and withdrawals—into a single transaction.
+
+Multiply Feature : Users can leverage assets for higher returns in a seamless, cost-effective process.
+
+How To
+✔️
+Earn
+Try Depositing on our testnet app
+
+The feature is live on our app.
+
+Deposit and Withdraw
+Choose an asset you want to deposit or withdraw
+
+
+Select either Untitled Bank's Aggregator or a Modular Bank to deposit or withdraw your asset.
+
+
+Aggregator (Core-vault) : the aggregated vault layer managed by the DAO
+
+Modular Bank (Custom-vault) : the vault operated by third-party creators.
+
+*Learn more about our Layered Vault Structure here.
+
+Insert the amount of asset you want to deposit or withdraw and confirm.
+
+How To
+✔️
+Borrow
+The feature is live on our app.
+
+Choose the market which you want to borrow.
+
+
+Select one or more actions below to create a bundle and press start. Chosen actions will be performed in a single transaction. (Only depositing more collateral assets and Repaying loan assets are possible during liquidation.)
+
+
+Deposit Collateral
+
+Borrow Loan
+
+Repay Loan
+
+Withdraw Collateral
+
+Insert the amount of asset you want for each action and Approve.
+
+How To
+✔️
+Leverage / Repay with Collateral
+What Is Leverage and How Does It Work?
+A one-click strategy that automates the borrowing and re-depositing process. You can increase exposure to a greater-yield asset by depositing the additional collateral.
+
+
+Go to Borrow Page and choose the market you want to borrow and leverage.
+
+
+Choose the 'Leverage' feature at the top of Actions bundles.
+
+
+Insert the amount of asset you want to deposit(collateralize) and choose the leverage amount.
+
+
+Approve transactions and check your leveraged position.
+
+
+Repay with Collateral (Deleverage)
+If you want to close your leveraged positions - you can either repay with funds from your wallet, or repay with your collateral. 
+
+By choosing 'Repay with collateral' option, the collateral is withdrawn and swapped into the borrowed token to be repaid.
+
+✔️
+Audit Report
+Untitled Bank has been thoroughly audited by the leading global blockchain security companies, ScaleBit and Besoin.
+
+✔️
+Risks for Lending Users
+This section outlines the primary risks associated with Untitled Bank. By using this protocol, you acknowledge that you have read, understood, and accepted all risks outlined in this documentation.
+
+Smart contract risk
+Smart contract risk is inherent when using DeFi protocols. While smart contracts—self-executing code running on blockchains—are designed to be secure, they may contain vulnerabilities or bugs.
+
+A flaw in smart contract code could allow attackers to exploit the protocol and steal funds, potentially resulting in losses for suppliers and borrowers. Given this significant risk in DeFi, users should thoroughly evaluate protocol security before participation.
+
+Liquidation
+When a borrowed amount exceeds the borrowing limit, the protocol allows liquidation—where a portion of the collateral is exchanged at market price with a liquidation discount. This mechanism incentivizes arbitrageurs to act quickly, reducing both borrower and protocol risk. The close factor (ranging from 0 to 1, typically 25%) determines how much of the borrowed asset can be repaid. Liquidations continue until the borrower's debt returns below their borrowing capacity. The liquidation incentive for our platform is min(50%, 1 - (1.4-0.4*LLTV) ).
+
+Market risk of the protocol
+Borrowing from Untitled Bank's market requires "excess collateralization"—supplying collateral worth more than the borrowed amount. If collateral value falls below the borrowed amount before liquidators can act, borrowers lose the incentive to repay their position.
+
+100% Utilization Risk
+When an asset reaches 100% utilization (all supplied tokens are lent out), the pool becomes depleted. This prevents both withdrawals and new borrowing until the utilization rate decreases through loan repayments or new deposits. This risk particularly impacts users with large pool deposits or during periods of high borrowing demand.
+
+
+
+
+
+Untitled Bank Official Links
+
+🌐 Website: https://untitledbank.co/ 
+💻 App: https://app.untitledbank.co/
+📖 Docs: https://docs.untitledbank.co/ 
+
+❎ X(Twitter): https://x.com/BankUntitled 
+👾 Discord: https://discord.gg/hJCMCPfmrN 

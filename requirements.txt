@@ -1,5 +1,7 @@
-discord.py==2.3.2
-crewai
-pyyaml
+discord.py>=2.0.0
 python-dotenv
 requests
+pyyaml
+crewai
+langchain-openai
+slack-bolt
